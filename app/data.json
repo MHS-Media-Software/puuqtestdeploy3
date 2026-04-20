@@ -1,0 +1,384 @@
+{
+  "concept": {
+    "companyName": "MHS Media",
+    "tagline": "Digitale groei voor ambitieuze bedrijven",
+    "sector": "Online Marketing Agency",
+    "colors": {
+      "primary": "#1e87f0",
+      "secondary": "#155bb8",
+      "accent": "#1e87f0",
+      "background": "#FAFBFC",
+      "text": "#1a1a1a"
+    },
+    "styleOverrides": {},
+    "contact": {
+      "phone": "+31 20 123 4567",
+      "email": "info@mhsmedia.nl",
+      "address": "Herengracht 123, 1015 BH Amsterdam"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/mhsmedia",
+      "instagram": "https://instagram.com/mhsmedia",
+      "linkedin": "https://linkedin.com/company/mhsmedia",
+      "youtube": ""
+    },
+    "heroTitle": "Digitale groei begint hier",
+    "heroSubtitle": "Van webdesign tot SEO - wij helpen Nederlandse bedrijven om online te groeien met bewezen strategieën en creatieve oplossingen.",
+    "heroBadge": "specialist sinds 2018",
+    "heroButtonText": "Start vandaag",
+    "uspCards": [
+      {
+        "icon": "Target",
+        "title": "Resultaatgericht",
+        "description": "Concrete doelen, meetbare resultaten. We werken altijd met KPI's en rapportages."
+      },
+      {
+        "icon": "Users",
+        "title": "Persoonlijke aanpak",
+        "description": "Een vast aanspreekpunt en maatwerk strategieën die passen bij jouw bedrijf."
+      },
+      {
+        "icon": "Zap",
+        "title": "Snelle implementatie",
+        "description": "Van concept naar live website in 4 weken. Geen eindeloze wachttijden."
+      }
+    ],
+    "about": {
+      "title": "Expertise die werkt",
+      "text": "MHS Media is ontstaan uit de passie om Nederlandse bedrijven te helpen groeien in de digitale wereld. Sinds 2018 hebben we meer dan 200 succesvolle projecten gerealiseerd, van startups tot gevestigde ondernemingen.\n\nOnze aanpak is simpel: we luisteren naar je doelen, analyseren je markt en creëren een digitale strategie die écht werkt. Met een team van specialisten op het gebied van webdesign, SEO, content marketing en social media management, zorgen we ervoor dat jouw bedrijf online opvalt.",
+      "yearsExperience": "6",
+      "checklistItems": [
+        "200+ succesvolle projecten gerealiseerd",
+        "Gemiddeld 150% groei in online zichtbaarheid",
+        "95% van onze klanten beveelt ons aan"
+      ]
+    },
+    "partners": [
+      "TechStart Amsterdam",
+      "Green Energy Solutions",
+      "Urban Food Concepts",
+      "NextLevel Consulting",
+      "Creative Hub Rotterdam",
+      "Digital Innovators",
+      "Smart Business Group"
+    ],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom kiezen voor MHS Media?",
+      "sectionText": "We combineren creativiteit met data-gedreven strategieën om jouw online aanwezigheid naar een hoger niveau te tillen.",
+      "items": [
+        {
+          "icon": "BarChart",
+          "title": "Data-gedreven aanpak",
+          "description": "Alle beslissingen baseren we op concrete data en marktanalyses voor optimale resultaten."
+        },
+        {
+          "icon": "Lightbulb",
+          "title": "Creatieve oplossingen",
+          "description": "Innovatieve concepten die je merk laten opvallen in de drukke online wereld."
+        },
+        {
+          "icon": "Clock",
+          "title": "Snelle doorlooptijden",
+          "description": "Efficiënte projectmanagement zorgt voor tijdige oplevering zonder kwaliteitsverlies."
+        },
+        {
+          "icon": "Handshake",
+          "title": "Transparante communicatie",
+          "description": "Regelmatige updates, duidelijke rapportages en altijd bereikbaar voor vragen."
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Webdesign & Development",
+        "description": "Moderne, gebruiksvriendelijke websites die converteren. Van concept tot lancering, inclusief mobiele optimalisatie en CMS integratie. Responsive design staat centraal in al onze projecten.",
+        "imagePrompt": "Modern clean website design on multiple devices, professional team working on web development in bright office space with natural lighting, sleek computers and design mockups visible on screens"
+      },
+      {
+        "name": "Zoekmachine Optimalisatie (SEO)",
+        "description": "Verbeter je vindbaar­heid in Google met technische SEO, keyword research en content optimalisatie. We zorgen voor duurzame groei in organisch verkeer naar jouw website.",
+        "imagePrompt": "SEO specialist analyzing Google search results and analytics dashboards on multiple monitors, graphs showing upward trending website traffic, modern office environment with data visualizations"
+      },
+      {
+        "name": "Content Marketing",
+        "description": "Waardevolle content die je doelgroep bindt en converteert. Van blog artikelen tot video content, we creëren content die je expertise toont en klanten aantrekt.",
+        "imagePrompt": "Creative team brainstorming content ideas around whiteboard, laptops with blog posts and social media content visible, modern collaborative workspace with natural light and creative atmosphere"
+      },
+      {
+        "name": "Social Media Management",
+        "description": "Professionele social media strategieën die engagement genereren. We beheren je accounts, creëren content en bouwen een actieve community rondom je merk.",
+        "imagePrompt": "Social media manager creating engaging content on multiple social platforms, phone and laptop showing Instagram LinkedIn Facebook feeds, bright modern office with plants and creative workspace"
+      },
+      {
+        "name": "Google Ads & PPC",
+        "description": "Gerichte advertentiecampagnes die direct resultaat opleveren. Optimalisatie van advertentieteksten, targeting en budgetbeheer voor maximale ROI op je marketing investering.",
+        "imagePrompt": "Digital marketing specialist managing Google Ads campaigns on computer screens, charts showing ad performance metrics, professional office setting with multiple monitors displaying campaign dashboards"
+      },
+      {
+        "name": "E-commerce Oplossingen",
+        "description": "Complete webshops die verkopen. Van product fotografie tot betalings­integraties, we bouwen e-commerce platforms die gebruikers­vriendelijk zijn en optimaal converteren.",
+        "imagePrompt": "E-commerce website showcase on laptop and mobile devices, online shopping interface with product catalogs, modern office workspace with team discussing online store development"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "ClipboardCheck",
+        "title": "Intake & Analyse",
+        "description": "We beginnen met een uitgebreide analyse van je huidige situatie, doelgroep en concurrentie om een solide basis te leggen."
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Strategie & Concept",
+        "description": "Op basis van de analyse ontwikkelen we een maatwerk strategie en presenteren we concrete concepten en wireframes."
+      },
+      {
+        "icon": "Settings",
+        "title": "Realisatie & Development",
+        "description": "Ons team van specialisten brengt het concept tot leven met aandacht voor detail en gebruiksvriendelijkheid."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Lancering & Optimalisatie",
+        "description": "Na de lancering monitoren we performance, verzamelen feedback en optimaliseren continu voor betere resultaten."
+      }
+    ],
+    "stepsTitle": "Hoe we samenwerken",
+    "stepsText": "Van eerste gesprek tot succesvolle lancering - zo verloopt ons bewezen proces",
+    "projects": [
+      {
+        "name": "TechStart Rebranding",
+        "date": "november 2024",
+        "location": "Amsterdam",
+        "imagePrompt": "Modern tech startup office environment with sleek branding elements, clean website design on multiple screens, professional team celebrating successful rebranding project"
+      },
+      {
+        "name": "Green Energy Website",
+        "date": "oktober 2024",
+        "location": "Utrecht",
+        "imagePrompt": "Sustainable energy company website featuring solar panels and wind turbines, clean green design aesthetic, environmental technology showcased on modern devices"
+      },
+      {
+        "name": "Urban Food E-commerce",
+        "date": "september 2024",
+        "location": "Rotterdam",
+        "imagePrompt": "Food delivery website interface on laptop and smartphone, modern urban restaurant setting, online ordering system with appetizing food photography"
+      },
+      {
+        "name": "Consulting Firm SEO",
+        "date": "augustus 2024",
+        "location": "Den Haag",
+        "imagePrompt": "Professional consulting office with SEO analytics dashboards visible on screens, business team reviewing Google search rankings and traffic growth charts"
+      },
+      {
+        "name": "Creative Hub Platform",
+        "date": "juli 2024",
+        "location": "Eindhoven",
+        "imagePrompt": "Creative coworking space website design showcasing artistic community, modern laptops displaying creative portfolio platform, collaborative workspace environment"
+      },
+      {
+        "name": "Digital Innovation Portal",
+        "date": "juni 2024",
+        "location": "Groningen",
+        "imagePrompt": "Technology innovation center website interface, modern digital workspace with multiple monitors showing cutting-edge web development, futuristic office environment"
+      }
+    ],
+    "blogPosts": [
+      {
+        "title": "SEO Trends 2025: Wat Nederlandse Bedrijven Moeten Weten",
+        "excerpt": "Ontdek de belangrijkste SEO ontwikkelingen voor 2025 en hoe je jouw website optimaal voorbereidt op de nieuwe Google algoritmes. Van AI-gedreven content tot lokale SEO strategieën.",
+        "imagePrompt": "SEO expert analyzing search engine trends on computer screens with graphs and analytics, modern office setting with data visualization charts showing website traffic growth"
+      },
+      {
+        "title": "Webdesign Psychology: Hoe Kleuren je Conversie Beïnvloeden",
+        "excerpt": "De psychologie achter kleurkeuzes in webdesign kan je conversiepercentages drastisch verbeteren. Leer welke kleuren het beste werken voor jouw doelgroep en waarom.",
+        "imagePrompt": "Web designer working with color palettes on multiple monitors, creative workspace showing website mockups with different color schemes, bright modern office environment"
+      },
+      {
+        "title": "Social Media Marketing ROI: Meet je Succes in 2025",
+        "excerpt": "Hoe meet je nou echt het succes van je social media inspanningen? We delen concrete KPI's en tools waarmee je de ROI van je social media marketing kunt bewijzen.",
+        "imagePrompt": "Social media analytics dashboard on laptop screen showing engagement metrics, professional marketing team discussing ROI charts and social media performance data"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Martijn van der Berg",
+        "company": "TechStart Amsterdam",
+        "quote": "MHS Media heeft onze online aanwezigheid volledig getransformeerd. Binnen 3 maanden zagen we 200% meer qualified leads. Hun persoonlijke aanpak maakt echt het verschil.",
+        "rating": 5
+      },
+      {
+        "name": "Sarah Jansen",
+        "company": "Green Energy Solutions",
+        "quote": "Professioneel team dat echt luistert naar je wensen. De nieuwe website heeft onze conversie met 180% verhoogd en ziet er prachtig uit op alle apparaten.",
+        "rating": 5
+      },
+      {
+        "name": "Tom Bakker",
+        "company": "Urban Food Concepts",
+        "quote": "Eindelijk een bureau dat doet wat het belooft. Onze online bestellingen zijn verdriedubbeld sinds de samenwerking met MHS Media. Aanrader!",
+        "rating": 5
+      },
+      {
+        "name": "Lisa de Vries",
+        "company": "NextLevel Consulting",
+        "quote": "Hun SEO expertise heeft ons van pagina 3 naar de top 3 van Google gebracht. De maandelijkse rapportages zijn helder en de resultaten spreken voor zich.",
+        "rating": 5
+      },
+      {
+        "name": "Robert Hendriks",
+        "company": "Creative Hub Rotterdam",
+        "quote": "Snelle communicatie, creatieve oplossingen en altijd binnen budget en planning. MHS Media is een betrouwbare partner voor onze digitale groei.",
+        "rating": 5
+      }
+    ],
+    "ctaTitle": "Klaar voor digitale groei?",
+    "ctaText": "Start vandaag nog met een gratis strategisch adviesgesprek. We bespreken je doelen en laten zien hoe we jouw online aanwezigheid kunnen versterken.",
+    "ctaButtonText": "Plan gesprek",
+    "footerTagline": "Digitale groei voor ambitieuze bedrijven",
+    "footerLinks": [
+      {
+        "label": "Privacy Policy",
+        "href": "#"
+      },
+      {
+        "label": "Algemene Voorwaarden",
+        "href": "#"
+      },
+      {
+        "label": "Cookie Beleid",
+        "href": "#"
+      },
+      {
+        "label": "Sitemap",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "KVK: 78901234",
+      "btw": "BTW: NL123456789B01",
+      "iban": "IBAN: NL12 RABO 0123 4567 89",
+      "whatsappNumber": "+31 6 12 34 56 78"
+    },
+    "seoTitle": "MHS Media - Online Marketing Agency | Webdesign, SEO & Digital Growth",
+    "seoDescription": "MHS Media helpt Nederlandse bedrijven groeien met professioneel webdesign, SEO, content marketing en social media management. Start vandaag met digitale groei!",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Diensten",
+      "heroText": "Van webdesign tot SEO - ontdek hoe we jouw bedrijf online laten groeien met onze bewezen digitale marketing diensten.",
+      "sectionTitle": "Wat we voor je kunnen doen",
+      "sectionText": "Elke dienst wordt op maat gemaakt voor jouw specifieke doelen en doelgroep. We combineren creativiteit met data voor optimale resultaten.",
+      "uspTitle": "Waar we voor staan",
+      "uspText": "Bij MHS Media draait alles om jouw succes. We geloven in transparante communicatie, meetbare resultaten en langdurige partnerships. Ons team van specialisten houdt zich dagelijks bezig met de nieuwste ontwikkelingen in digital marketing.\n\nOf je nu een startup bent die online wil groeien of een gevestigd bedrijf dat zijn digitale aanwezigheid wil versterken - wij hebben de expertise en ervaring om je doelen te realiseren.",
+      "uspChecklist": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Projecten",
+      "heroText": "Bekijk onze recent voltooide projecten en ontdek hoe we bedrijven helpen groeien met creatieve digitale oplossingen.",
+      "gridTitle": "Succesvolle samenwerkingen",
+      "gridText": "Van startups tot grote ondernemingen - elk project is uniek en vraagt om een maatwerk aanpak."
+    },
+    "overOns": {
+      "heroTitle": "Over ons",
+      "heroText": "Leer het team achter MHS Media kennen en ontdek onze passie voor digitale marketing en klantensucces.",
+      "storyTitle": "Ons verhaal",
+      "storyText": "MHS Media is in 2018 opgericht vanuit de overtuiging dat elke ondernemer toegang moet hebben tot professionele digitale marketing. Wat begon als een klein bureau is uitgegroeid tot een team van gepassioneerde specialisten.\n\nOnze missie is simpel: Nederlandse bedrijven helpen groeien door middel van effectieve online strategieën. We geloven in eerlijke communicatie, transparante prijzen en meetbare resultaten. Elk teamlid brengt zijn eigen expertise mee, van webdevelopment tot SEO en van content creatie tot social media management.\n\nVandaag de dag zijn we trots op meer dan 200 succesvolle projecten en een klanttevredenheid van 95%. Maar wat ons echt drijft, zijn de verhalen van ondernemers die dankzij onze hulp hun dromen hebben kunnen realiseren."
+    },
+    "contactPage": {
+      "heroTitle": "Contact",
+      "heroText": "Neem contact met ons op voor een vrijblijvend gesprek over jouw digitale marketing doelen en ontdek wat we voor je kunnen betekenen.",
+      "detailsTitle": "We staan voor u klaar",
+      "detailsText": "Of je nu vragen hebt over onze diensten, een offerte wilt aanvragen of gewoon wilt brainstormen over je digitale strategie - we horen graag van je.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Hieronder vind je antwoorden op de meest gestelde vragen. Staat je vraag er niet bij? Neem gerust contact met ons op.",
+      "faq": [
+        {
+          "question": "Wat zijn de kosten voor een nieuwe website?",
+          "answer": "De kosten voor een website variëren afhankelijk van de complexiteit en wensen. Een standaard bedrijfswebsite start vanaf €2.500, terwijl uitgebreide e-commerce oplossingen vanaf €5.000 beginnen. We maken altijd eerst een offerte op maat."
+        },
+        {
+          "question": "Hoe lang duurt het om een website te ontwikkelen?",
+          "answer": "Een standaard website wordt binnen 4-6 weken opgeleverd. Voor complexere projecten zoals webshops of maatwerk applicaties rekenen we 8-12 weken. De exacte doorlooptijd bespreken we in het intakegesprek."
+        },
+        {
+          "question": "Bieden jullie ook onderhoud en support na oplevering?",
+          "answer": "Ja, we bieden verschillende onderhouds­pakketten aan. Van basis updates tot uitgebreide support en hosting. Zo blijft je website altijd up-to-date en veilig."
+        },
+        {
+          "question": "Wat maakt MHS Media anders dan andere bureaus?",
+          "answer": "Onze persoonlijke aanpak, transparante communicatie en focus op meetbare resultaten. Je hebt altijd één vast aanspreekpunt en we werken alleen met bewezen strategieën die echt resultaat opleveren."
+        },
+        {
+          "question": "Werken jullie ook met bedrijven buiten Amsterdam?",
+          "answer": "Absoluut! We werken door heel Nederland en veel van onze projecten doen we remote. Voor intake gesprekken en belangrijke overleggen komen we graag bij je langs, waar je ook gevestigd bent."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Modern digital marketing team collaborating in bright Amsterdam office space with large windows, multiple computer screens showing website designs and analytics dashboards, professional atmosphere with natural lighting and contemporary furniture, team members discussing creative strategies",
+      "about": "Professional web development team working together in modern office environment, laptops showing code and design mockups, natural lighting from large windows, collaborative workspace with plants and contemporary design elements, focus on teamwork and expertise",
+      "uniqueBg": "Abstract digital technology background with subtle network connections and data visualization elements, dark blue gradient overlay, modern geometric patterns suggesting innovation and digital transformation, professional business atmosphere",
+      "stepsBg": "Clean modern office meeting room with whiteboard showing project timeline and strategy diagrams, natural lighting, professional business environment with contemporary furniture and technology, suggesting collaboration and planning process",
+      "ctaBg": "Modern Amsterdam office building exterior transitioning to bright interior workspace, professional team members at work, large windows with city view, contemporary design elements, suggesting growth and success in business environment",
+      "dienstenHero": "Digital marketing services visualization with multiple devices showing websites, SEO analytics, social media dashboards, and creative designs, modern office environment with team members working on various digital projects, professional lighting and clean aesthetic",
+      "dienstenUsp": "Professional team brainstorming session around conference table with laptops, charts and creative materials visible, modern office space with natural lighting, whiteboards showing marketing strategies and data analysis, collaborative working atmosphere",
+      "projectenHero": "Portfolio showcase environment with multiple screens displaying various completed web projects and success stories, modern agency office with creative workspace setup, natural lighting highlighting successful digital marketing campaigns and website designs",
+      "overOnsHero": "MHS Media team portrait in contemporary Amsterdam office space, group of diverse marketing professionals in casual business attire, modern workspace with creative elements, natural lighting creating warm and approachable atmosphere",
+      "overOnsStory": "Company journey visualization with timeline elements, modern office evolution from small startup to established agency, team growth over time, professional photographs showing company milestones and achievements in bright contemporary workspace",
+      "contactHero": "Modern professional consultation setup with comfortable meeting area, laptop and tablets showing contact forms and communication tools, bright office space with large windows, welcoming atmosphere for client meetings and consultations"
+    }
+  },
+  "logoUrl": null,
+  "images": {
+    "hero": "https://images.pexels.com/photos/8204311/pexels-photo-8204311.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "about": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "unique-bg": "https://images.pexels.com/photos/14314638/pexels-photo-14314638.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "steps-bg": "https://images.pexels.com/photos/8102299/pexels-photo-8102299.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "cta-bg": "https://images.pexels.com/photos/5483165/pexels-photo-5483165.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-hero": "https://images.pexels.com/photos/12969403/pexels-photo-12969403.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-usp": "https://images.pexels.com/photos/7869111/pexels-photo-7869111.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "projecten-hero": "https://images.pexels.com/photos/251225/pexels-photo-251225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-hero": "https://images.pexels.com/photos/18999376/pexels-photo-18999376.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-story": "https://images.pexels.com/photos/6804587/pexels-photo-6804587.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "contact-hero": "https://images.pexels.com/photos/28821070/pexels-photo-28821070.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-0": "https://images.pexels.com/photos/326514/pexels-photo-326514.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-1": "https://images.pexels.com/photos/5831343/pexels-photo-5831343.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-2": "https://images.pexels.com/photos/17724741/pexels-photo-17724741.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-3": "https://images.pexels.com/photos/6162932/pexels-photo-6162932.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-4": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-5": "https://images.pexels.com/photos/29502371/pexels-photo-29502371.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-0": "https://images.pexels.com/photos/7988659/pexels-photo-7988659.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-1": "https://images.pexels.com/photos/9800092/pexels-photo-9800092.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-2": "https://images.pexels.com/photos/8939307/pexels-photo-8939307.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-3": "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-4": "https://images.pexels.com/photos/36765679/pexels-photo-36765679.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-5": "https://images.pexels.com/photos/326514/pexels-photo-326514.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-0": "https://images.pexels.com/photos/3912976/pexels-photo-3912976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-1": "https://images.pexels.com/photos/326514/pexels-photo-326514.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-2": "https://images.pexels.com/photos/12969403/pexels-photo-12969403.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  }
+}
